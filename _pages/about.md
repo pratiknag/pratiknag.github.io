@@ -19,7 +19,7 @@ Spatial Covariance function estimation using Convolutional Neural Networks, Jour
 Statistics (JCGS) (Sep, 2024), 1-22, https://doi.org/10.1080/10618600.2024.2402277.
 
 [2] **Pratik Nag**, Ying Sun, Brian J Reich. Spatio-temporal DeepKriging for interpolation and probabilistic forecasting, Spatial
-Statistics (Oct, 2023), volume. 57, 100773, DOI 10.1016/j.spasta.2023.100773.
+Statistics (Oct, 2023), volume. 57, 100773, https://doi.org/10.1016/j.spasta.2023.100773.
 
 [3] Arnab Hazra, **Pratik Nag**, Rishikesh Yadav, Ying Sun. Exploring the Efficacy of Statistical and Deep Learning Methods for Large
 Spatial Datasets: A Case Study, JABES (2024). https://doi.org/10.1007/s13253-024-00602-4(Joint first authorship)
