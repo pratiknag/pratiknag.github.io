@@ -15,6 +15,21 @@ My research interests encompass the development of advanced statistical methods 
 
 Throughout my academic journey, I have developed a strong foundation in both theoretical and applied aspects of statistics and machine learning, and I am passionate about exploring innovative solutions to complex problems in data science.
 
+Recent News:
+===
+** 🎓 Invitation to Attend PhD Defense! 🎓 **
+
+I am thrilled to extend a cordial invitation to all esteemed members of our network to attend my upcoming Ph.D. defense. After years of dedicated research and scholarly pursuits, I am excited to share the culmination of my work with you.
+Join me as I present my dissertation, Deep Neural Networks for Large-scale Complex Spatial and Spatio-temporal Processes. This research endeavor involves remedying the limitations of conventional statistical methods for Spatio-temporal phenomena through the application of deep learning techniques. This defense marks a significant milestone in my academic and professional journey, and your support and presence would mean the world to me.
+Date: 29th May 2024
+Time: 9:00 AM - 11:30 AM GMT+3
+
+Your attendance and engagement would not only honor my efforts but also contribute to a stimulating academic discourse. I look forward to sharing insights, exchanging ideas, and celebrating this momentous occasion with each of you.
+
+[<img alt="alt_text" width="40px" src="[images/image.PNG](https://images.app.goo.gl/ea4Tt7MfSqWmb6hG7)" />](https://cemse.kaust.edu.sa/people/person/pratik-nag)
+
+
+
 Recent Publications:
 ===
 [1] **Pratik Nag**, Sameh Abdulah, Yiping Hong, Ghulam Qadir, Ying Sun, Marc G. Genton. Efficient Large-scale Nonstationary
