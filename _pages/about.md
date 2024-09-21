@@ -9,7 +9,11 @@ redirect_from:
 ---
 
 
-I am a Research Fellow at the University of Wollongong, focusing on the Bayesian implementation of next-generation neural networks, including Fourier Neural Operators. I work under the guidance of Prof. Noel Cressie, Prof. Andrew Zammit Mangion, and Prof. Sumeetpal Singh. I completed my PhD at King Abdullah University of Science and Technology (KAUST) under the supervision of Prof. Ying Sun. My research aims to advance machine learning techniques and explore innovative applications across various fields.
+I am a Research Fellow at [National Institute of Applied Statistical Research (NIASRA)](https://www.uow.edu.au/niasra/), University of Wollongong, working with [Prof. Noel Cressie](https://scholars.uow.edu.au/noel-cressie), Prof. [Andrew Zammit Mangion](https://scholars.uow.edu.au/andrew-zammit-mangion), and [Prof. Sumeetpal Singh](https://scholars.uow.edu.au/sumeetpal-singh). My research is mainly focused on the Bayesian implementation of next-generation neural networks, including Fourier Neural Operators. I completed my PhD at [King Abdullah University of Science and Technology (KAUST)](https://cemse.kaust.edu.sa/stat) under the supervision of [Prof. Ying Sun](https://www.kaust.edu.sa/en/study/faculty/ying-sun).
+
+My research interests encompass the development of advanced statistical methods and machine learning techniques. I am particularly focused on applications in predictive modeling and uncertainty quantification, aiming to couple neural networks with traditional statistical methodologies to obtain efficient data driven solutions to real life problems.
+
+Throughout my academic journey, I have developed a strong foundation in both theoretical and applied aspects of statistics and machine learning, and I am passionate about exploring innovative solutions to complex problems in data science.
 
 Recent Publications:
 ===
