@@ -26,7 +26,7 @@ Time: 9:00 AM - 11:30 AM GMT+3
 
 Your attendance and engagement would not only honor my efforts but also contribute to a stimulating academic discourse. I look forward to sharing insights, exchanging ideas, and celebrating this momentous occasion with each of you.
 
-[<img alt="alt_text" width="40px" src="[images/image.PNG](https://images.app.goo.gl/ea4Tt7MfSqWmb6hG7)" />](https://cemse.kaust.edu.sa/people/person/pratik-nag)
+[<img src="https://images.app.goo.gl/ea4Tt7MfSqWmb6hG7" />](https://cemse.kaust.edu.sa/people/person/pratik-nag)
 
 
 
