@@ -17,10 +17,17 @@ Throughout my academic journey, I have developed a strong foundation in both the
 
 Recent News:
 ===
+<pre>
+
 **Check out my UOW scholar profile**
+
 My UOW scholar profile is now available. You can check it out below.
 
 [<img src="images/uow_scholar.png">](https://scholars.uow.edu.au/pratik-nag)
+
+
+
+
 
 ** 🎓 Invitation to Attend PhD Defense! 🎓 **
 
@@ -32,4 +39,4 @@ Time: 9:00 AM - 11:30 AM GMT+3
 Your attendance and engagement would not only honor my efforts but also contribute to a stimulating academic discourse. I look forward to sharing insights, exchanging ideas, and celebrating this momentous occasion with each of you.
 
 [<img src="images/PhD_defence.png">](https://cemse.kaust.edu.sa/people/person/pratik-nag)
-
+</pre>
