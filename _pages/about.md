@@ -26,8 +26,8 @@ My UOW scholar profile is now available. You can check it out below.
 [<img src="images/uow_scholar.png">](https://scholars.uow.edu.au/pratik-nag)
 
 
-N
-===
+<br>
+<br>
 
 **Invitation to Attend PhD Defense!**
 
