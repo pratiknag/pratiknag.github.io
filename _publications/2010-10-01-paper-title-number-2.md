@@ -1,5 +1,5 @@
 ---
-title: "2024-02-17-paper-title-number-4"
+title: "Efficient Large-scale Nonstationary Spatial Covariance function estimation using Convolutional Neural Networks"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
