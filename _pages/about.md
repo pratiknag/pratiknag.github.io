@@ -17,6 +17,11 @@ Throughout my academic journey, I have developed a strong foundation in both the
 
 Recent News:
 ===
+**Check out my UOW scholar profile**
+My UOW scholar profile is now available. You can check it out below.
+
+[<img src="images/uow_scholar.png">](https://scholars.uow.edu.au/pratik-nag)
+
 ** 🎓 Invitation to Attend PhD Defense! 🎓 **
 
 I am thrilled to extend a cordial invitation to all esteemed members of our network to attend my upcoming Ph.D. defense. After years of dedicated research and scholarly pursuits, I am excited to share the culmination of my work with you.
@@ -28,22 +33,3 @@ Your attendance and engagement would not only honor my efforts but also contribu
 
 [<img src="images/PhD_defence.png">](https://cemse.kaust.edu.sa/people/person/pratik-nag)
 
-
-
-Recent Publications:
-===
-[1] **Pratik Nag**, Sameh Abdulah, Yiping Hong, Ghulam Qadir, Ying Sun, Marc G. Genton. Efficient Large-scale Nonstationary
-Spatial Covariance function estimation using Convolutional Neural Networks, Journal of Computational and Graphical
-Statistics (JCGS) (Sep, 2024), 1-22, https://doi.org/10.1080/10618600.2024.2402277.
-
-[2] **Pratik Nag**, Ying Sun, Brian J Reich. Spatio-temporal DeepKriging for interpolation and probabilistic forecasting, Spatial
-Statistics (Oct, 2023), volume. 57, 100773, https://doi.org/10.1016/j.spasta.2023.100773.
-
-[3] Arnab Hazra, **Pratik Nag**, Rishikesh Yadav, Ying Sun. Exploring the Efficacy of Statistical and Deep Learning Methods for Large
-Spatial Datasets: A Case Study, JABES (2024). https://doi.org/10.1007/s13253-024-00602-4(Joint first authorship)
-
-
-Preprints:
-===
-[1] **Pratik Nag**, Ying Sun, Brian J Reich. Bivariate DeepKriging for Computationally Efficient Spatial Interpolation of Large-scale
-Wind Fields, Arxiv : https://arxiv.org/abs/2307.08038.(In Revision at Technometrics)
