@@ -3,7 +3,7 @@ title: "Efficient Large-scale Nonstationary Spatial Covariance function estimati
 collection: publications
 category: manuscripts
 permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper provides a data driven scalable approach for fitting Nonstationary Mat\'ern covariance for large datasets.'
+excerpt: 'This paper provides a data driven scalable approach for fitting Nonstationary Matern covariance for large datasets.'
 date: 2024-09
 venue: 'Journal of Computational and Graphical Statistics (JCGS)'
 paperurl: ', https://doi.org/10.1080/10618600.2024.2402277'
