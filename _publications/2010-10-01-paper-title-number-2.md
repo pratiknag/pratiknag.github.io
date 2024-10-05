@@ -3,7 +3,7 @@ title: "Efficient Large-scale Nonstationary Spatial Covariance function estimati
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: 'This paper provides a data driven scalable approach for fitting Nonstationary Mat\'ern covariance for large datasets.'
 date: 2010-10-01
 venue: 'Journal 1'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
