@@ -240,7 +240,7 @@ defaults:
       path: ""
       type: talks
     values:
-      layout: talk
+      layout: compress
       author_profile: true
       share: true
 
