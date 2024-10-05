@@ -2,7 +2,7 @@
 title: "Efficient Large-scale Nonstationary Spatial Covariance function estimation using Convolutional Neural Networks"
 collection: publications
 category: manuscripts
-permalink: /publication/2024-02-17-paper-title-number-4
+permalink: /publication/2024-09-paper-title-number-4
 excerpt: 'This paper provides a data driven scalable approach for fitting Nonstationary Matern covariance for large datasets.'
 date: 2024-09
 venue: 'Journal of Computational and Graphical Statistics (JCGS)'
