@@ -26,10 +26,10 @@ My UOW scholar profile is now available. You can check it out below.
 [<img src="images/uow_scholar.png">](https://scholars.uow.edu.au/pratik-nag)
 
 
+N
+===
 
-
-
-** 🎓 Invitation to Attend PhD Defense! 🎓 **
+**Invitation to Attend PhD Defense!**
 
 I am thrilled to extend a cordial invitation to all esteemed members of our network to attend my upcoming Ph.D. defense. After years of dedicated research and scholarly pursuits, I am excited to share the culmination of my work with you.
 Join me as I present my dissertation, Deep Neural Networks for Large-scale Complex Spatial and Spatio-temporal Processes. This research endeavor involves remedying the limitations of conventional statistical methods for Spatio-temporal phenomena through the application of deep learning techniques. This defense marks a significant milestone in my academic and professional journey, and your support and presence would mean the world to me.
