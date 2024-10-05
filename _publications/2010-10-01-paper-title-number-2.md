@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "2024-02-17-paper-title-number-4"
 collection: publications
 category: manuscripts
 permalink: /publication/2010-10-01-paper-title-number-2
