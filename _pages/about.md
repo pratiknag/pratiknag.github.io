@@ -33,30 +33,10 @@ To learn more about the Al-Kindi Student Awards, visit the [official KAUST page]
 
 **Check out my UOW scholar profile**
 
-I am honored to have received the prestigious Al-Kindi Student Award at KAUST as a Ph.D. student. This annual award, named after the renowned scholar Al-Kindi, celebrates exceptional academic achievements and research impact within the Statistics Program. Being recognized by this award is a testament to my dedication to advancing statistical research and its applications.
-
-The Al-Kindi Award is inspired by Al-Kindi's pioneering work, which is considered foundational to the fields of statistics and cryptography. I am grateful for the support of my mentors and the vibrant research environment at KAUST, which have been instrumental in my journey.
-
-To learn more about the Al-Kindi Student Awards, visit the official KAUST page.
-
-<br>
-<br>
-
-**Check out my UOW scholar profile**
-
 My UOW scholar profile is now available. You can check it out below.
 
 [<img src="images/uow_scholar.png">](https://scholars.uow.edu.au/pratik-nag)
 
-
-<br>
-<br>
-
-**Invitation to Attend PhD Defense!**
-
-I am thrilled to extend a cordial invitation to all esteemed members of our network to attend my upcoming Ph.D. defense. After years of dedicated research and scholarly pursuits, I am excited to share the culmination of my work with you.
-Join me as I present my dissertation, Deep Neural Networks for Large-scale Complex Spatial and Spatio-temporal Processes. This research endeavor involves remedying the limitations of conventional statistical methods for Spatio-temporal phenomena through the application of deep learning techniques. This defense marks a significant milestone in my academic and professional journey, and your support and presence would mean the world to me.
-Date: 29th May 2024
 Time: 9:00 AM - 11:30 AM GMT+3
 
 Your attendance and engagement would not only honor my efforts but also contribute to a stimulating academic discourse. I look forward to sharing insights, exchanging ideas, and celebrating this momentous occasion with each of you.
