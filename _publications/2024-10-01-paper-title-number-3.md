@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-paper-title-number-3
 excerpt: 'In this paper DeepKriging has been extended to bivariate spatial processes, incorporating connections to the Linear Model of Coregionalization.'
-date: 2025-01-20
+date: 2025
 venue: 'Technometrics'
 paperurl: 'https://doi.org/10.1080/00401706.2025.2453197'
 ---
