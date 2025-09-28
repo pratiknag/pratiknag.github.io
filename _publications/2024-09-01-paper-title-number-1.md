@@ -4,7 +4,7 @@ collection: publications
 category: manuscripts
 permalink: /publication/2024-09-01-paper-title-number-1
 excerpt: 'This paper provides a data driven scalable approach for fitting Nonstationary Matern covariance for large datasets.'
-date: 2024-09-01
+date: 2025
 venue: 'Journal of Computational and Graphical Statistics (JCGS)'
 paperurl: 'https://doi.org/10.1080/10618600.2024.2402277'
 citation: 'Nag, Pratik, Yiping Hong, Sameh Abdulah, Ghulam A. Qadir, Marc G. Genton, and Ying Sun. "Efficient Large-scale Nonstationary Spatial Covariance Function Estimation Using Convolutional Neural Networks." Journal of Computational and Graphical Statistics just-accepted (2024): 1-22.'
