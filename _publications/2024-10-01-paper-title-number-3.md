@@ -1,13 +1,15 @@
 ---
-title: "Bivariate DeepKriging for Computationally Efficient Spatial Interpolation of Large-scale Wind Fields"
+title: "Bivariate DeepKriging for Large-scale Spatial Interpolation of Wind Fields"
 collection: publications
 category: manuscripts
 permalink: /publication/2024-10-01-paper-title-number-3
 excerpt: 'In this paper DeepKriging has been extended to bivariate spatial processes, incorporating connections to the Linear Model of Coregionalization.'
-date: 2025-01-03
+date: 2025-07-03
 venue: 'Technometrics'
 paperurl: 'https://doi.org/10.1080/00401706.2025.2453197'
 ---
+
+**Authors:** P. Nag, Y. Sun, B. J. Reich
 
 High spatial resolution wind data play a crucial role in various fields such as climate, oceanography, and meteorology. However, spatial interpolation or downscaling of bivariate wind fields, characterized by velocity in two dimensions, poses a challenge
 due to their non-Gaussian nature, high spatial variability, and heterogeneity. While
